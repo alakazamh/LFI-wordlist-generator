@@ -1,4 +1,4 @@
-# traversal-wordlist-generator
+# LFI Path Traversal Wordlist Generator
 
 Small Python utility to expand a wordlist with path traversal payloads.
 
